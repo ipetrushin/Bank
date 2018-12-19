@@ -6,7 +6,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+
+
         Scanner sc = new Scanner(System.in);
+
+        // может и работает
         int k = sc.nextInt();
         int[] a = new int[k];
 
